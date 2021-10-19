@@ -1,0 +1,42 @@
+
+/*slick */
+.slick-dotted.slick-slider {
+    margin-bottom: 30px;
+}
+.slick-dots {
+    display: flex;
+    justify-content: center;
+}
+.slick-dots li {
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    cursor: pointer;
+}
+.slick-dots li button {
+    font-size: 0;
+    line-height: 0;
+    display: block;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    cursor: pointer;
+    color: #ccc;
+    border: 0;
+    outline: none;
+    background: 0 0;
+}
+
+/*specific */
+.carousel_footer_sponsor .captionDiv {
+    padding: 20px;
+    text-align: center;
+}
+
+.slick-slide img{
+    display: block;
+    max-width: 100%;
+    margin: auto;
+}
+
+.hidden{display: none;}
