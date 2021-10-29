@@ -4,7 +4,9 @@ The slider have been made using slick
 https://kenwheeler.github.io/slick/
 
 for my project I needed to change the speed the slider pause on each slide
-as some Sponsors were more important than others
+as some Sponsors were more important than others: red are the most important 600ms, blue medium 400ms, green 100ms
+
+![image](https://user-images.githubusercontent.com/22336407/139303146-e059e6b4-98f9-41e2-a94b-486249123448.png)
 
 to do that I changed the speed of the slider on the event afterChange
 so after the main slide has change
@@ -56,4 +58,3 @@ by assigning to the global varialbe startslick the value 1
 
 
 
-![image](https://user-images.githubusercontent.com/22336407/139303146-e059e6b4-98f9-41e2-a94b-486249123448.png)
